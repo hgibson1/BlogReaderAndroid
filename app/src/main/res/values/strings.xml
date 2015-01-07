@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReaderAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="emptyMessage">No Blog Posts to display</string>
+    <string name="errorMessage">Something went Wrong!</string>
+    <string name="noDataErrorMessage">Could note get data from blog URL</string>
+    <string name="OK">OK</string>
+    <string name="title_activity_detail">"Post "</string>
+
+</resources>
